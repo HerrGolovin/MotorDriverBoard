@@ -53,3 +53,39 @@ Arduino Mega2560(Arduino UNO R3)多功能电机驱动扩展板   [深圳市易�
 
 ## 开源许可
 MIT
+## 联系我们
+
+技术支持邮箱: abbott@keywish-robot.com</br>
+售后邮箱: ken@keywish-robot.com</br>
+
+## MotorDriveBoard V4.0 资料下载 
+
+[MotorDriveBoard-4.0 Data download](https://codeload.github.com/emakefun/MotorDriverBoard/zip/MotorDriveBoardV4.0)
+
+## 编程软件下载
+
+ Arduino IDE 软件下载:
+* [Mac OS X 10.8 Mountain Lion or newer](https://downloads.arduino.cc/arduino-1.8.10-macosx.zip)</br>
+* [Windows Installer, for Windows XP and up ](https://downloads.arduino.cc/arduino-1.8.10-windows.exe)</br>
+* [Linux 32 bits](https://downloads.arduino.cc/arduino-1.8.10-linux32.tar.xz)</br> 
+* [Linux 64 bits](https://downloads.arduino.cc/arduino-1.8.10-linux64.tar.xz)</br> 
+* [Linux ARM 32 bits ](https://downloads.arduino.cc/arduino-1.8.10-linuxarm.tar.xz)</br> 
+* [Linux ARM 64 bits ](https://downloads.arduino.cc/arduino-1.8.10-linuxaarch64.tar.xz)</br> 
+
+ MagicBlock 软件下载:
+* [Mac](http://www.emakefun.com/en/download)</br>
+* [Windows](http://www.emakefun.com/en/download)</br>
+
+ mBlock 5 软件下载:
+* [Mac](https://dl.makeblock.com/mblock5/darwin/V5.1.0.pkg)</br>
+* [Windows](https://dl.makeblock.com/mblock5/win32/V5.1.0.exe)</br>
+* [Linux](https://dl.makeblock.com/mblock5/linux/mLink-1.2.0-amd64.deb)</br>
+
+ mBlock 3 软件下载:
+* [Mac](https://dl.makeblock.com/mblock3/mBlock_mac_V3.4.12.zip)</br>
+* [Windows7+](https://dl.makeblock.com/mblock3/mBlock_win_V3.4.12.exe)</br>
+* [Windows XP](http://download.makeblock.com/mblock/v_3_4_2/mBlock_win_V3.4.2_beta2_20161111.exe)</br>
+* [Linux](https://dl.makeblock.com/mBlock4.0/mBlock_4.0.4_amd64.deb)</br>
+
+## 蓝牙测试 APP 下载
+Android :[Keywish](https://codeload.github.com/keywish/KeywishBot/zip/master)</br>
