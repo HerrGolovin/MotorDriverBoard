@@ -46,7 +46,7 @@
 Technical support email: abbott@keywish-robot.com</br>
 Sales email: ken@keywish-robot.com</br>
 
-## MotorDriveBoard V4.0 Kit Data Download 
+## MotorDriveBoard V4.0 Data Download 
 
 [MotorDriveBoard-4.0 Data download](https://codeload.github.com/emakefun/MotorDriverBoard/zip/MotorDriveBoardV4.0)
 
